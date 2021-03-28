@@ -1,2 +1,2 @@
 # profileweb
-halaman profile diri dengan menggunakan html dan css
+ membuat halaman profile diri dengan menggunakan html dan css
